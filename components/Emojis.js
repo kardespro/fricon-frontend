@@ -3,7 +3,6 @@ import axios from 'axios'
 import { useState , useEffect } from 'react'
 import { Badge, Grid } from "@nextui-org/react";
 
-
 export default function Nego(){
   const [data,setData] = useState([])
   const [search,setSearch] = useState("")
