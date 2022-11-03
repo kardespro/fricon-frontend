@@ -1,0 +1,12 @@
+ <div class="grid grid-cols-3 gap-4 pt-6">
+      {data.map((emojinego,index) => 
+        index < 5 && (
+  <div class="rounded-2xl max-w-auto py-5 px-5 bg-amber-500 pr-4 pl-4 pt-6 text-center " key={index}>
+  <div className="object-cover"><img src={emojinego.url}/></div>
+    <div className="text-center py-5 pr-4"><p className="text-gray-50">{emojinego || "null"}</p></div>
+    <div className="text-center rounded-md bg-emerald-500 text-gray-50 py-5 px-2"><button className="text-gray-50">View</button></div>
+  </div>
+            )
+                )}
+      <br/>
+  </div>
