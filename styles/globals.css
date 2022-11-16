@@ -24,6 +24,9 @@ a {
   padding-top: 0.1em; 
   padding-bottom: 0.1rem;
 }
+._mainnego{
+  background-color: #e5e7eb;
+}
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;

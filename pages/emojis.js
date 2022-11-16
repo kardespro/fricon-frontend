@@ -22,10 +22,7 @@ export default function Home() {
          <p className="text-neutral-500 text-lg">Blurple emojis adore you </p>
         <Emojis />
          <br />
-       <h1 className="pt-6 text-indigo-500 font-bold text-2xl">Packs</h1>
-       <p className="text-neutral-500 text-lg">Gradient & Beatifull Packs adore you </p>
-       <Packs />
-     </div>
+       </div>
        
     </div>
    </html>

@@ -18,14 +18,11 @@ export default function Home() {
       
        {/* <Hero />*/}
        <div className="blurple bg-gray-50 text-center shadow-4xl index-nego">
-         <h1 className="pt-6 text-indigo-500 font-bold text-2xl">Emojis</h1>
-         <p className="text-neutral-500 text-lg">Blurple emojis adore you </p>
-        <Emojis />
+         <h1 className="pt-6 text-indigo-500 font-bold text-2xl">Packs</h1>
+         <p className="text-neutral-500 text-lg">Blurple & Gradient Packs adore you </p>
+        <Packs />
          <br />
-       <h1 className="pt-6 text-indigo-500 font-bold text-2xl">Packs</h1>
-       <p className="text-neutral-500 text-lg">Gradient & Beatifull Packs adore you </p>
-       <Packs />
-     </div>
+       </div>
        
     </div>
    </html>
