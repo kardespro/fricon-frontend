@@ -1,7 +1,7 @@
 <center>
 <img src="https://friconv1.kardespro.repl.co/navbar.webp" align="center" />
 </center>
-# <h1 align="center">Fricon</h1>
+<h1 align="center">Fricon</h1>
 
 **<p align="center">Emoji And Pack Sharing Site</p>**
 
