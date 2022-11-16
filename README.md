@@ -18,6 +18,7 @@ npm i -g
 
 **```server.js```**  - Write Token
 **```pages/api/external/emojis.js```**  - Write Token
+
 **```pages/api/external/findEmoji.js```**  - Write Token
 
 ## Run !
